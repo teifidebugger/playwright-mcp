@@ -2,9 +2,11 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/playwright-mcp/tree/main/cloudflare/example)
 
-### Overview
+A project demonstrating how to use [Playwright with Cloudflare Workers](https://github.com/cloudflare/playwright) as a Model Control Protocol (MCP) server using [Cloudflare Playwright MCP](https://github.com/cloudflare/playwright-mcp).
 
-This project demonstrates how to use [Playwright with Cloudflare Workers](https://github.com/cloudflare/playwright) as a Model Control Protocol (MCP) server using [Cloudflare Playwright MCP](https://github.com/cloudflare/playwright-mcp).
+<a href="https://glama.ai/mcp/servers/@teifidebugger/playwright-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@teifidebugger/playwright-mcp/badge" alt="Cloudflare Playwright MCP server" />
+</a>
 
 It enables AI assistants to control a browser through a set of tools, allowing them to perform web automation tasks like navigation, typing, clicking, and taking screenshots.
 
